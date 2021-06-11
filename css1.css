@@ -1,0 +1,41 @@
+.one{
+	margin: 0 auto;
+	 top: 0px;
+	 width: 450px;
+    height: auto;
+    color: #99722b;
+	background-image:url("bgcss.jpg");
+    background-repeat: no-repeat;
+	background-position: center center;
+	 position: relative;
+	}
+
+.p{
+    width: 450px;
+    padding: 120px 0px 100px 0px;
+    margin: 0 auto;
+    color: #99722b;
+    text-transform: uppercase;
+    text-decoration: bold;
+    text-align: center;
+    font-family: Algerian;
+}
+	
+
+.h1{
+	padding: 0px 0px 0px;
+    font-size: 18px;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-family: Algerian;
+    margin: 0 auto;
+    color: #99722b;
+    text-align: center;
+    width: 450px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 10%;
+    margin: 0 auto;
+   
+}
